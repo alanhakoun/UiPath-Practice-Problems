@@ -2,7 +2,7 @@
   "name": "threeSum",
   "projectId": "0a45fd35-7a80-4c70-b2b0-0eb17889988a",
   "description": "return the 3 numbers that result in a given total",
-  "main": "Tribonnaci.xaml",
+  "main": "Fibonacci.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.23.4]",
     "UiPath.Mail.Activities": "[1.23.1]",
@@ -63,6 +63,12 @@
     {
       "filePath": "Tribonnaci.xaml",
       "uniqueId": "fa9f0f8b-1d54-4dda-94d0-e86b291240ea",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Fibonacci.xaml",
+      "uniqueId": "79ad3bc3-9c71-44f1-b595-29c80bc6d4c5",
       "input": [],
       "output": []
     }
